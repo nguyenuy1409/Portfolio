@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 import { useInView } from 'framer-motion'
 import { useRef, useState } from 'react'
 import { useForm } from 'react-hook-form'
-import { Mail, Phone, MapPin, Github, Linkedin, Twitter, Send } from 'lucide-react'
+import { Mail, Phone, MapPin, Github, Linkedin, Instagram, Send } from 'lucide-react'
 
 interface FormData {
   name: string
@@ -75,19 +75,19 @@ const ContactSection = () => {
     {
       icon: Github,
       name: 'GitHub',
-      url: 'https://github.com/yourusername',
+      url: 'https://github.com/nguyenuy1409',
       color: 'hover:text-gray-900 dark:hover:text-white',
     },
     {
       icon: Linkedin,
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/yourusername',
+      url: 'https://www.linkedin.com/in/uynguyen149/',
       color: 'hover:text-blue-600',
     },
     {
-      icon: Twitter,
-      name: 'Twitter',
-      url: 'https://twitter.com/yourusername',
+      icon: Instagram,
+      name: 'Instagram',
+      url: 'https://www.instagram.com/uynguyen__/',
       color: 'hover:text-blue-400',
     },
   ]
