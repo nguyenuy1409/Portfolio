@@ -142,7 +142,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@uowmail.edu.au
+Uy Nguyen - [@uynguyen__](https://www.instagram.com/uynguyen__/) - bun165@uowmail.edu.au
 
 Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio)
 
